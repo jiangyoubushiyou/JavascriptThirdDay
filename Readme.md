@@ -5,16 +5,18 @@
 `test()`-返回true  
 `exec()`-用于检索字符串中正则表达式的匹配，返回数组存放匹配的结果，未找到返回`null`.  
 ### Javascript错误-throw，try和catch
-`try语句`-测试代码块的错误     
-`catch语句`-处理错误    
-`throw语句`-创建自定义错误    
+`try`语句-测试代码块的错误     
+`catch`语句-处理错误    
+`throw`语句-创建自定义错误    
 try和catch成对出现    
 语法    
-` try{
+`
+try{
 	...
 }catch(err){
 	
-} `   
+}
+`   
 throw,try和catch一起使用能够控制程序流并生成自定义的错误信息    
 ### 调试 
 设置断点  
