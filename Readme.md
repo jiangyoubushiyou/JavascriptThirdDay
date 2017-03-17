@@ -10,11 +10,11 @@
 `throw语句`-创建自定义错误    
 try和catch成对出现    
 语法    
-`try{
+` try{
 	...
 }catch(err){
 	
-}`   
+} `   
 throw,try和catch一起使用能够控制程序流并生成自定义的错误信息    
 ### 调试 
 设置断点  
